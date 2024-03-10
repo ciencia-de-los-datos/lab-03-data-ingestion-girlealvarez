@@ -7,10 +7,9 @@ cuenta que los nombres de las columnas deben ser en minusculas, reemplazando los
 por guiones bajos; y que las palabras clave deben estar separadas por coma y con un solo 
 espacio entre palabra y palabra.
 
-
 """
+
 import pandas as pd
-import nltk
 import re
 
 def ingest_data():
